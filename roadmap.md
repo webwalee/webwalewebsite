@@ -1,0 +1,3 @@
+- [ ] Build the WEBWALE agency homepage with services, work, pricing, FAQs, and contact form.
+- [ ] Build three detailed, clearly labeled business demo pages with working inquiry links.
+- [ ] Verify route navigation, contact submission state, mobile layout, and preview build.
