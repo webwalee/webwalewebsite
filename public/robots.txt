@@ -1,0 +1,13 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /owner
+
+User-agent: Bingbot
+Allow: /
+Disallow: /owner
+
+User-agent: *
+Allow: /
+Disallow: /owner
+
+Sitemap: https://webwale.in/sitemap.xml
